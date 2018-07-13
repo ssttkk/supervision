@@ -1,32 +1,32 @@
 [
   {
-    "key": "TLS",
-    "latitude": 43.604652,
-    "longitude": 1.444209,
-    "name": "Toulouse"
+    "key":"TLS",
+    "latitude":43.604652,
+    "longitude":1.444209,
+    "name":"Toulouse"
   },
   {
-    "key": "ALB",
-    "latitude": 43.925085,
-    "longitude": 2.148641,
-    "name": "Albi"
+    "key":"ALB",
+    "latitude":43.925085,
+    "longitude":2.148641,
+    "name":"Albi"
   },
   {
-    "key": "RDZ",
-    "latitude": 44.349389,
-    "longitude": 2.575986,
-    "name": "Rodez"
+    "key":"RDZ",
+    "latitude":44.349389,
+    "longitude":2.575986,
+    "name":"Rodez"
   },
   {
-    "key": "TRB",
-    "latitude": 43.232951,
-    "longitude": 0.078082,
-    "name": "Tarbes"
+    "key":"TRB",
+    "latitude":43.232951,
+    "longitude":0.078082,
+    "name":"Tarbes"
   },
   {
-    "key": "FGC",
-    "latitude": 44.608288,
-    "longitude": 2.032871,
-    "name": "Figeac"
+    "key":"FGC",
+    "latitude":44.608288,
+    "longitude":2.032871,
+    "name":"Figeac"
   }
 ]
